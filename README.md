@@ -1,1 +1,2 @@
 # ASDS-Seminars
+Seminar reports from my first semester in the Applied Statistics and Data Science (ASDS) program at UTA. These seminars provided valuable insights into data science and its wide-ranging applications, from advanced machine learning techniques to innovative approaches in analytics and beyond. This repository serves as a reflection of the knowledge gained and the exciting potential of data-driven solutions.
